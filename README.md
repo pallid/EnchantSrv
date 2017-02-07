@@ -1,5 +1,5 @@
 # http-cервис проверки орфографии
-Обвертка для использования библиотеки [PyEnchant](https://pythonhosted.org/pyenchant/).
+Обвертка для использования библиотеки [PyEnchant](https://pythonhosted.org/pyenchant/) как http-сервис
 
 # Установка 
 

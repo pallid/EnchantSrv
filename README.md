@@ -10,14 +10,19 @@
 >Их необходимо скопировать в папку `..Python36/Lib/site-packages/enchant/share/enchant/myspell`
 
 - клонируем репозиторий
+
     `git clone git://github.com/pallid/EnchantSrv.git`
 
-- запускаем сервис `python EnchantSrv.py`
+- запускаем сервис
+
+    `python EnchantSrv.py`
 
 # Примеры использования
 
 Пример написан на [oscript](http://oscript.io/), при небольшой модификации портируется на 1С
 
-Запуск скрипта с примером `oscript ExampleClient.os`
+- Запуск скрипта с примером
+
+    `oscript ExampleClient.os`
 
 

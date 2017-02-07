@@ -4,6 +4,9 @@
 # Установка 
 
 - устанавливаем библиотеку [PyEnchant](https://pythonhosted.org/pyenchant/).
+
+    `pip install pyenchant`
+
 - добавляем словари для русского языка
 
 >Файлы словаря "ru_RU.dic" и "ru_RU.aff" можно взять из офисных пакетов openoffice и libreoffice.

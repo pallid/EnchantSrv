@@ -6,8 +6,10 @@
 - устанавливаем библиотеку [PyEnchant](https://pythonhosted.org/pyenchant/).
 - добавляем словари для русского языка
 
->Файлы словаря "ru_RU.dic" и "ru_RU.aff" можно взять из офисных пакетов openoffice и libreoffice
->Их необходимо скопировать в папку `..Python36/Lib/site-packages/enchant/share/enchant/myspell`
+>Файлы словаря "ru_RU.dic" и "ru_RU.aff" можно взять из офисных пакетов openoffice и libreoffice.
+>Их необходимо скопировать в папку 
+
+`..Python36/Lib/site-packages/enchant/share/enchant/myspell`
 
 - клонируем репозиторий
 
